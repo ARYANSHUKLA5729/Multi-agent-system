@@ -15,4 +15,5 @@ rich
 tenacity
 orjson
 pydantic
+tavily-python
 
