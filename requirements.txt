@@ -1,12 +1,12 @@
+streamlit
 langchain
 langchain-community
 langchain-core
 langchain-openai
-langchain-groq        <-- ADD THIS LINE HERE
+langchain-groq
 beautifulsoup4
 requests
 lxml
-
 python-dotenv
 aiohttp
 pandas
@@ -15,5 +15,4 @@ rich
 tenacity
 orjson
 pydantic
-streamlit
 
