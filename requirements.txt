@@ -2,6 +2,7 @@ langchain
 langchain-community
 langchain-core
 langchain-openai
+langchain-groq        <-- ADD THIS LINE HERE
 beautifulsoup4
 requests
 lxml
